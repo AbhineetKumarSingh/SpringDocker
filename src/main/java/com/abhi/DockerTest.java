@@ -8,7 +8,7 @@ public class DockerTest {
 	
 	@GetMapping("/welcome")
 	public String welcome() {
-		return " HI, ABHINEET SINGH  WELCOME TO AWS SERVICE ";
+		return " HI, ABHINEET KR. SINGH  WELCOME TO AWS SERVICE ";
 	}
 
 
